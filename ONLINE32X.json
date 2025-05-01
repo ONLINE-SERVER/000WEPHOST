@@ -1,11 +1,10 @@
-
 {
-    "serverstatus":"true",
-    "noticemode":"true",
-    "dataclearmode":"false",
-    "servermeassage":"",
-    "opentime":"",
-    "libs":"",
-    "notice_title":"ONLINE SERVER RUN..",
-    "notice_body":""
+    "serverstatus":"true",
+    "noticemode":"true",
+    "dataclearmode":"false",
+    "servermeassage":"",
+    "opentime":"",
+    "libs":"",
+    "notice_title":"ONLINE SERVER RUN...",
+    "notice_body":""
 }
